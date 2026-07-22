@@ -1,0 +1,18 @@
+{
+  "id": "/admin-app",
+  "name": "لوحة الإدارة — قاداري",
+  "short_name": "الإدارة",
+  "description": "تطبيق الإدارة لمنصة الأستاذ قاداري",
+  "start_url": "/admin?src=pwa",
+  "scope": "/admin",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1E293B",
+  "theme_color": "#1E293B",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/icon-admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-admin-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

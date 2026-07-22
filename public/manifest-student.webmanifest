@@ -1,0 +1,18 @@
+{
+  "id": "/student-app",
+  "name": "منصة الطالب — قاداري",
+  "short_name": "الطالب",
+  "description": "تطبيق الطالب لمنصة الأستاذ قاداري",
+  "start_url": "/auth/student?src=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/icon-student-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-student-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
